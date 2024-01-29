@@ -1,7 +1,7 @@
 ---
 name: Staj Başvuru Formu
 about: 2024 Staj başvuru formatı
-title: AD-SOYAD [ALAN][STAJ YERİ][STAJ TİPİ][STAJ SÜRESİ]
+title: Bedirhan Durmuş [data-science,database][uzaktan][zorunlu][4hafta]
 labels: ''
 assignees: ''
 
